@@ -1,2 +1,7 @@
 git config --global user.email "gleidson.moura@hotmail.com"
 git config --global user.name "gleidson"
+
+
+*************Comando para abri o arquivo de configuracao do Bash**********************
+nano ~/.bashrc
+source ~/.bashrc
